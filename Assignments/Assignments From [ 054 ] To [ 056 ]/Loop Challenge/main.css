@@ -1,0 +1,29 @@
+:root {
+    --main-color: #b00020;
+}
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: sans-serif;
+}
+div:first-of-type {
+    text-align: center;
+    font-size: 24px;
+}
+div {
+    background-color: #ddd;
+    padding: 10px;
+}
+span {
+    font-weight: bold;
+    color: var(--main-color);
+}
+h3 {
+    color: var(--main-color);
+}
+p {
+    border-left: 3px solid var(--main-color);
+    padding-left: 5px;
+    margin-left: 20px;
+}

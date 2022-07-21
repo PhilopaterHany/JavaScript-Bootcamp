@@ -1,0 +1,70 @@
+:root {
+    --mainColor: #e91e63;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font: bold 16px sans-serif;
+}
+.assign {
+    width: 80%;
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+}
+.assign > * {
+    width: 100%;
+}
+.assign input {
+    padding: 10px;
+    border: 2px solid #ddd;
+    caret-color: var(--mainColor);
+}
+.assign input:focus {
+    outline: none;
+    border-color: var(--mainColor);
+}
+.assign [title="Current"] {
+    text-align: center;
+    padding: 20px;
+    background-color: #f1f0f0;
+    border: 2px solid var(--mainColor);
+}
+.assign .classes-list {
+    padding: 20px;
+    background-color: #f1f0f0;
+}
+.assign .classes-list div {
+  color: var(--mainColor);
+}
+.assign .classes-list div span {
+    display: inline-flex;
+    justify-content: center;
+    margin: 10px 0 0 7px;
+    padding: 10px 15px;
+    min-width: 80px;
+    background-color: var(--mainColor);
+    color: #fff;
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+}
+@media (max-width: 306px) {
+    .assign .classes-list div span {
+        width: 100% !important;
+        margin: 5px 0 !important;
+    }
+}

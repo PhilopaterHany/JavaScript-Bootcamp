@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "title": "Title 1",
+        "body": "Article Number 1 Body",
+        "category": "Science",
+        "author": "Philopater"
+    },
+    {
+        "id": "2",
+        "title": "Title 2",
+        "body": "Article Number 2 Body",
+        "category": "Programming",
+        "author": "Osama"
+    },
+    {
+        "id": "3",
+        "title": "Title 3",
+        "body": "Article Number 3 Body",
+        "category": "Marketing",
+        "author": "Mohamed"
+    },
+    {
+        "id": "4",
+        "title": "Title 4",
+        "body": "Article Number 4 Body",
+        "category": "Graphic Designing",
+        "author": "Sayed"
+    },
+    {
+        "id": "5",
+        "title": "Title 5",
+        "body": "Article Number 5 Body",
+        "category": "Game Developing",
+        "author": "Ahmed"
+    }
+]

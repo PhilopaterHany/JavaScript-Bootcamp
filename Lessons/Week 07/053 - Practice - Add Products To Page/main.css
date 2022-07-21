@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: sans-serif;
+}
+h1 {
+    text-align: center;
+    color: #b00020;
+}
+div {
+    background-color: #ddd;
+    padding: 15px;
+    text-align: center;
+}

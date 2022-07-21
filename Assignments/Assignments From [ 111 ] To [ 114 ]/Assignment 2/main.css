@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+form {
+    width: 300px;
+    margin: 30px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column wrap;
+    gap: 30px;
+}
+form * {
+    width: 100%;
+    padding: 15px;
+    outline: none;
+}
+form input:last-child {
+    background-color: #328e32;
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+}

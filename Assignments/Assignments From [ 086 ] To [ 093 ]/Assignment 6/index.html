@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>DOM #1 - Assignment 6</title>
+        <link rel="stylesheet" href="main.css" />
+    </head>
+    <body>
+        <form action="">
+            <input type="number" name="elements-number" class="input number" min="0" placeholder="Number Of Elements" />
+            <input type="text" name="elements-text" class="input text" placeholder="Elements Text" />
+            <select name="type" class="input type">
+                <option value="Div">Div</option>
+                <option value="Section">Section</option>
+            </select>
+            <span>Background Color</span>
+            <input type="color" class="bg-col" />
+            <span>Text Color</span>
+            <input type="color" class="txt-col" value="#ffffff" />
+            <input type="submit" class="submit" name="create" value="Create" />
+            <div class="results"></div>
+        </form>
+        <script src="master.js"></script>
+    </body>
+</html>

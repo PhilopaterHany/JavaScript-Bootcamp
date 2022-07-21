@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Session Storage And Use Cases</title>
+    </head>
+    <body>
+        <form action="">
+            <input type="text" class="name" />
+        </form>
+        <script>
+            /*
+                BOM [Browser Object Model]
+                    Session Storage
+                        - setItem
+                        - getItem
+                        - removeItem
+                        - clear
+                        - key
+
+                    Info
+                        - New Tab = New Session
+                        - Duplicate Tab = Copy Session
+                        - New Tab With Same Url = New Session
+            */
+
+            // window.localStorage.setItem("color", "red");
+            // window.sessionStorage.setItem("color", "blue");
+
+            document.querySelector(".name").onblur = function () {
+                // console.log(this.value);
+                window.localStorage.setItem("input-name", this.value);
+            };
+        </script>
+    </body>
+</html>

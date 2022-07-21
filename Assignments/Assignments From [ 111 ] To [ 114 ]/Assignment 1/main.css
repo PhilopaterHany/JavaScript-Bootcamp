@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section {
+    padding: 20px;
+}
+section .options {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 20px;
+}
+section .options select {
+    flex: 1;
+    padding: 10px;
+    font-weight: bold;
+    text-align: center;
+    outline: none;
+}
+section .text {
+    margin-top: 30px;
+    padding: 20px;
+    font-weight: bold;
+    background-color: #000;
+}
+@media (max-width: 410px) {
+    section .options {
+        flex-flow: column wrap;
+    }
+    section .options select {
+        width: 100%;
+    }
+}

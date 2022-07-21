@@ -1,0 +1,47 @@
+body {
+    background-color: #eee;
+}
+ul {
+    padding: 0;
+    margin: 0;
+    background-color: #ddd;
+    margin: 20px auto;
+    padding: 20px;
+    width: 400px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+ul li {
+    width: 60px;
+    height: 60px;
+    border: 2px solid transparent;
+    opacity: 0.4;
+    cursor: pointer;
+    transition: 0.3s;
+}
+ul li.active,
+ul li:hover {
+    opacity: 1;
+}
+/* 
+    Will Be Done With JS
+    ul li:first-child {
+        background-color: red;
+    }
+    ul li:nth-child(2) {
+        background-color: green;
+    }
+    ul li:nth-child(3) {
+        background-color: blue;
+    }
+    ul li:nth-child(4) {
+        background-color: black;
+    } 
+*/
+.experiment {
+    background-color: red;
+    width: 600px;
+    height: 300px;
+    margin: 20px auto;
+}

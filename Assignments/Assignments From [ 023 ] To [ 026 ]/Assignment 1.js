@@ -1,0 +1,13 @@
+console.log(100000); // Output => 100000
+console.log(100000.0); // Output => 100000
+console.log(100_000); // Output => 100000
+console.log(1e5); // Output => 100000
+console.log(5e4 + 5e4); // Output => 100000
+console.log(100 ** 2.5); // Output => 100000
+console.log(Math.trunc(100000.12315)); // Output => 100000
+console.log(Math.pow(10, 5)); // Output => 100000
+console.log(Math.ceil(100000.0)); // Output => 100000
+console.log(Math.floor(100000.12426)); // Output => 100000
+console.log(Math.round(100000.4)); // Output => 100000
+console.log(Number("100000")); // Output => 100000
+console.log(parseInt("100000.2324")); // Output => 100000

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>091 - Deal With Children</title>
+    </head>
+    <body>
+        <div>
+            <!-- Osama -->
+            Hello Div
+            <p>Hello P</p>
+            <span>Hello Span</span>
+            <!-- Comment -->
+            Hello
+        </div>
+        <script>
+            /*
+                DOM [Deal With Children]
+                    - children
+                    - childNodes
+                    - firstChild
+                    - lastChild
+                    - firstElementChild
+                    - lastElementChild
+                */
+
+            let myElement = document.querySelector("div");
+
+            console.log(myElement);
+            console.log(myElement.children);
+            console.log(myElement.children[0]);
+            console.log(myElement.childNodes);
+            console.log(myElement.childNodes[0]);
+
+            console.log(myElement.firstChild);
+            console.log(myElement.lastChild);
+
+            console.log(myElement.firstElementChild);
+            console.log(myElement.lastElementChild);
+        </script>
+    </body>
+</html>

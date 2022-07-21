@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: sans-serif;
+}
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+form input {
+    width: 300px;
+    padding: 10px 15px;
+}
+form input:first-child {
+    outline-color: #b00020;
+}
+form input:last-child {
+    border-color: #b00020;
+    outline: none;
+}

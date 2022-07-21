@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <title>Learn JavaScript</title>
+        <script>
+            // Code One
+            document.getElementById("el").style.color = "red";
+
+            /*
+              This code is to change the element with id="el" color to red.
+              It will not run because <script> tag is in the top of the page and the browser have not seen the element with id="el" yet.
+            */
+        </script>
+        <script>
+            // Code Two
+            window.onload = function () {
+                document.getElementById("el").style.color = "red";
+            };
+
+            /*
+              This code is to change the element with id="el" color to red, when the page (window) loads.
+              It will not run because <script> tag is in the top of the page and the browser have not seen the element with id="el" yet.
+            */
+        </script>
+    </head>
+    <body>
+        <h1 id="el">Page Title</h1>
+        <script>
+            // Code Three
+            document.getElementById("el").style.color = "red";
+
+            /*
+              This code is to change the element with id="el" color to red.
+              This is the best place to put our <script> tag (at the end of the body).
+              It will work because the script is written after the element with id "el" is identified so the broswer can see it.
+            */
+        </script>
+    </body>
+</html>

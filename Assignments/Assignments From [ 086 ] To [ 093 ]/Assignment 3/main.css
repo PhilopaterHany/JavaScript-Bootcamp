@@ -1,0 +1,36 @@
+:root {
+    --main-color: #ff5722;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #eee;
+    font-family: sans-serif;
+}
+form {
+    width: 85%;
+    height: 300px;
+    padding: 20px;
+    margin: 10px auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+    background-color: #ddd;
+    border: 2px solid var(--main-color);
+}
+form input {
+    outline: none;
+    border: 2px solid var(--main-color);
+    width: 50%;
+    padding: 10px 15px;
+}
+form .result {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
