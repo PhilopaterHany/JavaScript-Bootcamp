@@ -7,7 +7,7 @@
             - API Authentication
 
         Advanced Example & Training
-            - https://codepen.io/Rafay12/pen/gOvQEZM
+            - https://github.com/PhilopaterHany/GitHub-Stats-App/
 */
 
 let myRequest = new XMLHttpRequest();
