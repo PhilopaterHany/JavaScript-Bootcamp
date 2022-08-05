@@ -4,7 +4,7 @@ const egCurr = document.querySelector("form .eg-pound");
 
 currInp.oninput = () => {
     usCurr.innerHTML = currInp.value;
-    egCurr.innerHTML = (currInp.value * 18.9).toFixed(2);
+    egCurr.innerHTML = (currInp.value * 15.6).toFixed(2);
 };
 
 document.forms[0].onsubmit = (e) => e.preventDefault();
