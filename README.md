@@ -134,7 +134,7 @@
 
 -   `Watched` - 050 => [Nested Loop & Training](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2007/050%20-%20Nested%20Loops%20%26%20Training.js)
 
--   `Watched` - 051 => [Loop Control - Break & Continue & Label]https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2007/051%20-%20Loop%20Control%20-%20Break%2C%20Continue%2C%20Label.js)
+-   `Watched` - 051 => [Loop Control - Break & Continue & Label](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2007/051%20-%20Loop%20Control%20-%20Break%2C%20Continue%2C%20Label.js)
 
 -   `Watched` - 052 => [Loop - For - Advanced Examples](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2007/052%20-%20Loop%20-%20For%20-%20Advanced%20Example.js)
 
