@@ -29,3 +29,14 @@ let solution = myString
     )
     .reduce((acc, curr) => `${acc}${curr}`);
 console.log(solution); // Elzero Web School
+
+// Elzero Solution
+
+// let myString = "1,2,3,EE,l,z,e,r,o,_,W,e,b,_,S,c,h,o,o,l,2,0,Z";
+// let zLetter = myString[myString.length - true]
+
+// let solution = myString
+//     .split("")
+//     .map((el) => el.replace("_", ""))
+//     .filter((el) => el !== "," && isNaN(parseInt(el)) && el !== zLetter)
+//     .reduce((acc, next) => acc !== next ? `${acc}` : `${acc}${next}`);
