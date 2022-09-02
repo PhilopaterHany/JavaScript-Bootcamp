@@ -20,9 +20,12 @@
 
 ---
 
-## Lessons
+## Content & Discussed Topics
 
-#### Introduction
+<details>
+    <summary>
+        Week 01 - JavaScript Introduction
+    </summary>
 
 -   `Watched` - 001 => [Introduction & What Is JavaScript ?](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2001/001%20-%20Introduction%20And%20What%20Is%20JavaScript.js)
 
@@ -41,8 +44,12 @@
 -   `Watched` - 008 => [Console Methods And Styling And WebAPI](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2001/008%20-%20Console%20Methods%20%26%20Styling%20And%20Web%20API.js)
 
 -   `Watched` - 009 => [What Is ECMAScript ?](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2001/009%20-%20What%20Is%20ECMAScript.js)
+</details>
 
-#### Data Types And Variables
+<details>
+    <summary>
+        Week 02 - Data Types And Variables
+    </summary>
 
 -   `Watched` - 010 => [Data Types & Typeof Operator](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2002/010%20-%20Data%20Types%20%26%20typeof%20Operator.js)
 
@@ -59,6 +66,12 @@
 -   `Watched` - 016 => [Template Literals (Template Strings)](<https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2002/016%20-%20Template%20Literals%20(Template%20Strings).js>)
 
 -   `Watched` - 017 => [Variable & Concatenation Challenge](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2002/017%20-%20Variable%20%26%20Concatenation%20Challenge.js)
+</details>
+
+<details>
+    <summary>
+        Week 03 - Test
+    </summary>
 
 -   `Watched` - 018 => [Arithmetic Operators](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2003/018%20-%20Arithmetic%20Operators.js)
 
@@ -69,8 +82,12 @@
 -   `Watched` - 021 => [Assignment Operators](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2003/021%20-%20Assignment%20Operators.js)
 
 -   `Watched` - 022 => [Operators Challenge](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2003/022%20-%20Operators%20Challenges.js)
+</details>
 
-#### Numbers And Strings
+<details>
+    <summary>
+        Week 04 - Numbers & String
+    </summary>
 
 -   `Watched` - 023 => [Number](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2004/023%20-%20Number.js)
 
@@ -87,8 +104,12 @@
 -   `Watched` - 029 => [String Methods - Part 3](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2004/029%20-%20String%20Methods%20-%20Part%203.js)
 
 -   `Watched` - 030 => [String Challenge](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2004/030%20-%20String%20Challenge.js)
+</details>
 
-#### Control Flow
+<details>
+    <summary>
+        Week 05 - Control Flow
+    </summary>
 
 -   `Watched` - 031 => [Comparison Operators](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2005/031%20-%20Comparison%20Operators.js)
 
@@ -107,26 +128,34 @@
 -   `Watched` - 038 => [Switch Statement](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2005/038%20-%20Switch%20Statement.js)
 
 -   `Watched` - 039 => [Switch & If Challenges](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2005/039%20-%20Switch%20%26%20If%20Condition%20Challenge.js)
+</details>
 
-#### Arrays
+<details>
+    <summary>
+        Week 06 - Array
+    </summary>
 
--   `Watched` - 040 => [Arrays Big Introduction](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2006/040%20-%20Array%20Big%20Introduction.js)
+-   `Watched` - 040 => [Array Big Introduction](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2006/040%20-%20Array%20Big%20Introduction.js)
 
--   `Watched` - 041 => [Using Length With Arrays](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2006/041%20-%20Using%20Length%20With%20Array.js)
+-   `Watched` - 041 => [Using Length With Array](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2006/041%20-%20Using%20Length%20With%20Array.js)
 
--   `Watched` - 042 => [Adding And Removing From Arrays](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2006/042%20-%20Add%20And%20Remove%20From%20Array.js)
+-   `Watched` - 042 => [Adding And Removing From Array](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2006/042%20-%20Add%20And%20Remove%20From%20Array.js)
 
--   `Watched` - 043 => [Searching Arrays](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2006/043%20-%20Searching%20Array.js)
+-   `Watched` - 043 => [Searching Array](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2006/043%20-%20Searching%20Array.js)
 
--   `Watched` - 044 => [Sorting Arrays](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2006/044%20-%20Sorting%20Array.js)
+-   `Watched` - 044 => [Sorting Array](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2006/044%20-%20Sorting%20Array.js)
 
--   `Watched` - 045 => [Slicing Arrays](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2006/045%20-%20Slicing%20Array.js)
+-   `Watched` - 045 => [Slicing Array](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2006/045%20-%20Slicing%20Array.js)
 
--   `Watched` - 046 => [Joining Arrays & Elements](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2006/046%20-%20Joining%20Arrays.js)
+-   `Watched` - 046 => [Joining Arrays](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2006/046%20-%20Joining%20Arrays.js)
 
--   `Watched` - 047 => [Array Challenges](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2006/047%20-%20Array%20Challenge.js)
+-   `Watched` - 047 => [Array Challenge](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2006/047%20-%20Array%20Challenge.js)
+</details>
 
-#### Loop
+<details>
+    <summary>
+        Week 07 - Loops
+    </summary>
 
 -   `Watched` - 048 => [Loop - For & Concept Of Loop](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2007/048%20-%20Loop%20-%20For%20%26%20Concept%20Of%20Loop.js)
 
@@ -145,8 +174,12 @@
 -   `Watched` - 055 => [Loop - Do While](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2007/055%20-%20Loop%20-%20Do%20While.js)
 
 -   `Watched` - 056 => [Loop Challenge](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2007/056%20-%20Loop%20Challenge.js)
+</details>
 
-#### Functions & Scope
+<details>
+    <summary>
+        Weeks 08 & 09 - Functions & Scope
+    </summary>
 
 -   `Watched` - 057 => [Function - Intro & Basic Usage](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2008/057%20-%20Function%20-%20Intro%20%26%20Basic%20Usage.js)
 
@@ -175,8 +208,12 @@
 -   `Watched` - 069 => [Scope - Lexical (Static)](<https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2009/069%20-%20Scope%20-%20Lexical%20(Static).js>)
 
 -   `Watched` - 070 => [Arrow Function Challenge](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2009/070%20-%20Arrow%20Function%20Challenge.js)
+</details>
 
-#### Higher Order Functions And Practice
+<details>
+    <summary>
+        Week 10 - Higher Order Functions
+    </summary>
 
 -   `Watched` - 071 => [Higher Order Functions – Map](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2010/071%20-%20Higher%20Order%20Functions%20-%20Map.js)
 
@@ -193,8 +230,12 @@
 -   `Watched` - 077 => [Higher Order Functions – ForEach & Practice](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2010/077%20-%20Higher%20Order%20Functions%20-%20ForEach%20%26%20Practice.js)
 
 -   `Watched` - 078 => [Higher Order Functions Challenge](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2010/078%20-%20Higher%20Order%20Functions%20Challenge.js)
+</details>
 
-#### Objects
+<details>
+    <summary>
+        Week 11 - Objects
+    </summary>
 
 -   `Watched` - 079 => [Object Introduction](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2011/079%20-%20Object%20Introduction.js)
 
@@ -209,8 +250,12 @@
 -   `Watched` - 084 => [Create Object With Create Method](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2011/084%20-%20Create%20Object%20With%20Create%20Method.js)
 
 -   `Watched` - 085 => [Create Object With Assign Method](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2011/085%20-%20Create%20Object%20With%20Assign%20Method.js)
+</details>
 
-#### Document Object Model [DOM]
+<details>
+    <summary>
+        Weeks 12 & 13 - Document Object Model [DOM]
+    </summary>
 
 -   `Watched` - 086 => [What Is DOM ? & Selecting Elements](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2012/086%20-%20What%20Is%20DOM%20%26%20Select%20Elements.js)
 
@@ -243,8 +288,12 @@
 -   `Watched` - 100 => [Add Event Listener & Event Target](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2013/100%20-%20addEventListener%20%26%20Event%20Target.js)
 
 -   `Watched` - 101 => [DOM Challenge](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2013/101%20-%20DOM%20Challenge.js)
+</details>
 
-#### Browser Object Model [BOM]
+<details>
+    <summary>
+        Week 14 & 15 - Browser Object Model [BOM]
+    </summary>
 
 -   `Watched` - 102 => [What Is BOM ?](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2014/102%20-%20What%20Is%20BOM.js)
 
@@ -271,8 +320,12 @@
 -   `Watched` - 113 => [Session Storage & Use Cases](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2015/113%20-%20Session%20Storage%20%26%20Use%20Cases.html)
 
 -   `Watched` - 114 => [BOM Challenge](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2015/114%20-%20BOM%20Challenge.js)
+</details>
 
-#### Destructuring
+<details>
+    <summary>
+        Week 16 - Destructuring
+    </summary>
 
 -   `Watched` - 115 => [Destructuring Arrays - Part 1](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2016/115%20-%20Destructuring%20Arrays%20-%20Part%201.js)
 
@@ -289,8 +342,12 @@
 -   `Watched` - 121 => [Destructuring Mixed Content](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2016/121%20-%20Destructuring%20Mixed%20Content.js)
 
 -   `Watched` - 122 => [Destructuring Challenge](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2016/122%20-%20Destructuring%20Challenge.js)
+</details>
 
-#### More Methods & New Data Types
+<details>
+    <summary>
+        Week 17 - More Methods & New Data Types
+    </summary>
 
 -   `Watched` - 123 => [Set Data Type & Methods](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2017/123%20-%20Set%20Data%20Type%20%26%20Methods.js)
 
@@ -313,10 +370,14 @@
 -   `Watched` - 132 => [Spread Syntax & Use Cases](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2017/132%20-%20Spread%20Syntax%20%26%20Use%20Cases.js)
 
 -   `Watched` - 133 => [Map & Set Challenge](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2017/133%20-%20Map%20And%20Set%20Challenge.js)
+</details>
 
-#### Regular Expressions
+<details>
+    <summary>
+        Week 18 - Regular Expressions
+    </summary>
 
--   `Watched` - 134 => [Intro & What is Regular Expression ?](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2018/134%20-%20Intro%20%26%20What%20Is%20Regular%20Expression.js)
+-   `Watched` - 134 => [Introduction & What is Regular Expression ?](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2018/134%20-%20Intro%20%26%20What%20Is%20Regular%20Expression.js)
 
 -   `Watched` - 135 => [RegExp Modifiers](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2018/135%20-%20RegExp%20Modifiers.js)
 
@@ -341,8 +402,12 @@
 -   `Watched` - 145 => [Test Your RegExp and Discussions](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2018/145%20-%20Test%20Your%20RegExp%20And%20Discussions.js)
 
 -   `Watched` - 146 => [RegExp Challenge](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2018/146%20-%20RegExp%20Challenge.js)
+</details>
 
-#### Object Oriented Programming
+<details>
+    <summary>
+        Week 19 - Object Oriented Programming
+    </summary>
 
 -   `Watched` - 147 => [Object Oriented Programming Introduction](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2019/147%20-%20OOP%20Introduction.js)
 
@@ -367,8 +432,12 @@
 -   `Watched` - 157 => [Object Meta Data & Descriptor - Part 1](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2019/157%20-%20Object%20Meta%20Data%20%26%20Descriptor%20-%20Part%201.js)
 
 -   `Watched` - 158 => [Object Meta Data & Descriptor - Part 2](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2019/158%20-%20Object%20Meta%20Data%20%26%20Descriptor%20-%20Part%202.js)
+</details>
 
-#### Date, Time, Generators & Modules
+<details>
+    <summary>
+        Week 20 - Date, Time, Generators & Modules
+    </summary>
 
 -   `Watched` - 159 => [Date & Time Introduction](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2020/159%20-%20Date%20And%20Time%20Introduction.js)
 
@@ -389,8 +458,12 @@
 -   `Watched` - 167 => [Modules Import & Export](https://github.com/PhilopaterHany/JavaScript-Bootcamp/tree/main/Lessons/Week%2020/167%20-%20Modules%20Import%20%26%20Export)
 
 -   `Watched` - 168 => [Named vs Default Export & Import All](https://github.com/PhilopaterHany/JavaScript-Bootcamp/tree/main/Lessons/Week%2020/168%20-%20Named%20vs%20Default%20Export%20And%20Import%20All)
+</details>
 
-#### Asynchronous Programming And JSON & AJAX
+<details>
+    <summary>
+        Week 21 - Asynchronous Programming and JSON & AJAX
+    </summary>
 
 -   `Watched` - 169 => [Introduction & What Is JSON ?](https://github.com/PhilopaterHany/JavaScript-Bootcamp/tree/main/Lessons/Week%2021/169%20-%20Introduction%20%26%20What%20Is%20JSON)
 
@@ -411,8 +484,12 @@
 -   `Watched` - 177 => [Request & Response From Real API](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2021/177%20-%20Request%20And%20Response%20From%20Real%20API.js)
 
 -   `Watched` - 178 => [Loop On API Data](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2021/178%20-%20Loop%20On%20API%20Data.js)
+</details>
 
-#### Promises & APIs & Training
+<details>
+    <summary>
+        Week 22 - Promises & APIs & Training
+    </summary>
 
 -   `Watched` - 179 => [Callback Hell Or Pyramid Of Doom](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2022/179%20-%20Callback%20Hell%20Or%20Pyramid%20Of%20Doom.js)
 
@@ -433,6 +510,7 @@
 -   `Watched` - 187 => [Fetch - Try & Catch & Finally](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2022/187%20-%20Fetch%20-%20Try%20%26%20Catch%20%26%20Finally.js)
 
 -   `Watched` - 188 => [The End & Advices](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2022/188%20-%20The%20End%20%26%20Advices.js)
+</details>
 
 ---
 
@@ -471,7 +549,7 @@
 
 ## Live Demos
 
-| File                                                           |                                                                                            Live Preview                                                                                             |
+| File Name                                                      |                                                                                            Live Preview                                                                                             |
 | -------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Video - 053 - Practice - Add Products To Page                  | [Live Preview](https://philopaterhany.github.io/JavaScript-Bootcamp/Lessons/Week%2007/053%20-%20Practice%20-%20Add%20Products%20To%20Page/053%20-%20Practice%20-%20Add%20Products%20To%20Page.html) |
 | Video - 056 - Loop Challenge                                   |              [Live Preview](https://philopaterhany.github.io/JavaScript-Bootcamp/Assignments/Assignments%20From%20%5B%20054%20%5D%20To%20%5B%20056%20%5D/Loop%20Challenge/index.html)               |
@@ -492,6 +570,8 @@
 
 ---
 
-### Made With :heart: By Philopater Hany
+### Special Thanks To [Osama Elzero](https://www.youtube.com/c/ElzeroInfo)
 
 ### Check My [codepen.io](https://codepen.io/Rafay12/collections/?grid_type=list) Profile
+
+### Made With :heart: By Philopater Hany
