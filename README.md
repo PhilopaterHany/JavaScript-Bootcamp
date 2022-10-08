@@ -70,7 +70,7 @@
 
 <details>
     <summary>
-        Week 03 - Test
+        Week 03 - Operators
     </summary>
 
 -   `Watched` - 018 => [Arithmetic Operators](https://github.com/PhilopaterHany/JavaScript-Bootcamp/blob/main/Lessons/Week%2003/018%20-%20Arithmetic%20Operators.js)
