@@ -1,15 +1,14 @@
 // Write Your Generator Function Here
 function* gen() {
-    let num1 = 1;
-    let num2 = 14;
+    let i = 1;
     while (true) {
-        yield `${num1}4`;
-        num1 += num2;
-        num2 += 20;
+        yield 100 * i * i - 160 * i + 74;
+        i++;
     }
 }
 
 let generator = gen();
+
 console.log(generator.next()); // Output => {value: 14, done: false}
 console.log(generator.next()); // Output => {value: 154, done: false}
 console.log(generator.next()); // Output => {value: 494, done: false}
