@@ -7,7 +7,7 @@ let myLast = myElem.cloneNode(true);
 function elemAttr(ele, word) {
     ele.className = word.toLowerCase();
     ele.title = `${word} Element`;
-    ele.setAttribute("data-value", "word");
+    ele.setAttribute("data-value", word);
     ele.innerHTML = word;
 }
 
