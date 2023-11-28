@@ -14,7 +14,7 @@
 
 ---
 
-[Assignments Solved](https://elzero.org/category/assignments/javascript-bootcamp-assignments/) => [ 120 From 120 ] - Assignments ( 26 Topics )
+[Assignments Solved](https://elzero.org/category/assignments/javascript-bootcamp-assignments/) => [ 170 From 170 ] - Assignments ( 27 Topics )
 
 ![100%](https://progress-bar.dev/100/?title=Solved)
 
@@ -544,29 +544,33 @@
 | `Solved` | Date & Time & Generators & Modules | [Assignments For Lessons From [159] To [168]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-159-to-168/) | [Code](https://github.com/PhilopaterHany/JavaScript-Bootcamp/tree/main/Assignments/Assignments%20From%20%5B%20159%20%5D%20To%20%5B%20168%20%5D) |
 | `Solved` |            Ajax & Json             | [Assignments For Lessons From [169] To [178]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-169-to-178/) | [Code](https://github.com/PhilopaterHany/JavaScript-Bootcamp/tree/main/Assignments/Assignments%20From%20%5B%20169%20%5D%20To%20%5B%20178%20%5D) |
 | `Solved` |              Promises              | [Assignments For Lessons From [179] To [188]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-179-to-188/) | [Code](https://github.com/PhilopaterHany/JavaScript-Bootcamp/tree/main/Assignments/Assignments%20From%20%5B%20179%20%5D%20To%20%5B%20188%20%5D) |
+| `Solved` |     Miscellaneous Assignments      |  [Assignments For Lessons From [001] To [188]](https://elzero.org/javascript-bootcamp-assignments-lesson-from-1-to-188/)  |                 [Code](https://github.com/PhilopaterHany/JavaScript-Bootcamp/tree/main/Assignments/Miscellaneous%20Assignments)                 |
 
 ---
 
 ## Live Demos
 
-| File Name                                                      |                                                                                            Live Preview                                                                                             |
-| -------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Video - 053 - Practice - Add Products To Page                  | [Live Preview](https://philopaterhany.github.io/JavaScript-Bootcamp/Lessons/Week%2007/053%20-%20Practice%20-%20Add%20Products%20To%20Page/053%20-%20Practice%20-%20Add%20Products%20To%20Page.html) |
-| Video - 056 - Loop Challenge                                   |              [Live Preview](https://philopaterhany.github.io/JavaScript-Bootcamp/Assignments/Assignments%20From%20%5B%20054%20%5D%20To%20%5B%20056%20%5D/Loop%20Challenge/index.html)               |
-| Assignments For Lessons From [ 086 ] To [ 093 ] - Assignment 3 |               [Live Preview](https://philopaterhany.github.io/JavaScript-Bootcamp/Assignments/Assignments%20From%20%5B%20086%20%5D%20To%20%5B%20093%20%5D/Assignment%203/index.html)                |
-| Assignments For Lessons From [ 086 ] To [ 093 ] - Assignment 6 |               [Live Preview](https://philopaterhany.github.io/JavaScript-Bootcamp/Assignments/Assignments%20From%20%5B%20086%20%5D%20To%20%5B%20093%20%5D/Assignment%206/index.html)                |
-| Assignments For Lessons From [ 094 ] To [ 101 ] - Assignment 2 |               [Live Preview](https://philopaterhany.github.io/JavaScript-Bootcamp/Assignments/Assignments%20From%20%5B%20094%20%5D%20To%20%5B%20101%20%5D/Assignment%202/index.html)                |
-| Video - 101 - DOM Challenge                                    |               [Live Preview](https://philopaterhany.github.io/JavaScript-Bootcamp/Assignments/Assignments%20From%20%5B%20094%20%5D%20To%20%5B%20101%20%5D/DOM%20Challenge/index.html)               |
-| Assignments For Lessons From [ 102 ] To [ 110 ] - Assignment 1 |               [Live Preview](https://philopaterhany.github.io/JavaScript-Bootcamp/Assignments/Assignments%20From%20%5B%20102%20%5D%20To%20%5B%20110%20%5D/Assignment%201/index.html)                |
-| Assignments For Lessons From [ 102 ] To [ 110 ] - Assignment 2 |               [Live Preview](https://philopaterhany.github.io/JavaScript-Bootcamp/Assignments/Assignments%20From%20%5B%20102%20%5D%20To%20%5B%20110%20%5D/Assignment%202/index.html)                |
-| Assignments For Lessons From [ 111 ] To [ 114 ] - Assignment 1 |               [Live Preview](https://philopaterhany.github.io/JavaScript-Bootcamp/Assignments/Assignments%20From%20%5B%20111%20%5D%20To%20%5B%20114%20%5D/Assignment%201/index.html)                |
-| Assignments For Lessons From [ 111 ] To [ 114 ] - Assignment 2 |               [Live Preview](https://philopaterhany.github.io/JavaScript-Bootcamp/Assignments/Assignments%20From%20%5B%20111%20%5D%20To%20%5B%20114%20%5D/Assignment%202/index.html)                |
-| Video - 112 - Practice - Local Storage Color App               |                      [Live Preview](https://philopaterhany.github.io/JavaScript-Bootcamp/Lessons/Week%2015/112%20-%20Practice%20-%20Local%20Storage%20Color%20App/index.html)                       |
-| Video - 114 - BOM Challenge                                    |               [Live Preview](https://philopaterhany.github.io/JavaScript-Bootcamp/Assignments/Assignments%20From%20%5B%20111%20%5D%20To%20%5B%20114%20%5D/BOM%20Challenge/index.html)               |
-| Video - 144 - Form Validation With RegExp                      |                            [Live Preview](https://philopaterhany.github.io/JavaScript-Bootcamp/Lessons/Week%2018/144%20-%20Form%20Validation%20With%20RegExp/index.html)                            |
-| Assignments For Lessons From [ 169 ] To [ 178 ] - Assignment 4 |               [Live Preview](https://philopaterhany.github.io/JavaScript-Bootcamp/Assignments/Assignments%20From%20%5B%20169%20%5D%20To%20%5B%20178%20%5D/Assignment%204/index.html)                |
-| Assignments For Lessons From [ 179 ] To [ 188 ] - Assignment 1 |               [Live Preview](https://philopaterhany.github.io/JavaScript-Bootcamp/Assignments/Assignments%20From%20%5B%20179%20%5D%20To%20%5B%20188%20%5D/Assignment%201/index.html)                |
-| Assignments For Lessons From [ 179 ] To [ 188 ] - Assignment 2 |               [Live Preview](https://philopaterhany.github.io/JavaScript-Bootcamp/Assignments/Assignments%20From%20%5B%20179%20%5D%20To%20%5B%20188%20%5D/Assignment%202/index.html)                |
+| File Name                                                       |                                                                                            Live Preview                                                                                             |
+| --------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Video - 053 - Practice - Add Products To Page                   | [Live Preview](https://philopaterhany.github.io/JavaScript-Bootcamp/Lessons/Week%2007/053%20-%20Practice%20-%20Add%20Products%20To%20Page/053%20-%20Practice%20-%20Add%20Products%20To%20Page.html) |
+| Video - 056 - Loop Challenge                                    |              [Live Preview](https://philopaterhany.github.io/JavaScript-Bootcamp/Assignments/Assignments%20From%20%5B%20054%20%5D%20To%20%5B%20056%20%5D/Loop%20Challenge/index.html)               |
+| Assignments For Lessons From [ 086 ] To [ 093 ] - Assignment 3  |               [Live Preview](https://philopaterhany.github.io/JavaScript-Bootcamp/Assignments/Assignments%20From%20%5B%20086%20%5D%20To%20%5B%20093%20%5D/Assignment%203/index.html)                |
+| Assignments For Lessons From [ 086 ] To [ 093 ] - Assignment 6  |               [Live Preview](https://philopaterhany.github.io/JavaScript-Bootcamp/Assignments/Assignments%20From%20%5B%20086%20%5D%20To%20%5B%20093%20%5D/Assignment%206/index.html)                |
+| Assignments For Lessons From [ 094 ] To [ 101 ] - Assignment 2  |               [Live Preview](https://philopaterhany.github.io/JavaScript-Bootcamp/Assignments/Assignments%20From%20%5B%20094%20%5D%20To%20%5B%20101%20%5D/Assignment%202/index.html)                |
+| Video - 101 - DOM Challenge                                     |               [Live Preview](https://philopaterhany.github.io/JavaScript-Bootcamp/Assignments/Assignments%20From%20%5B%20094%20%5D%20To%20%5B%20101%20%5D/DOM%20Challenge/index.html)               |
+| Assignments For Lessons From [ 102 ] To [ 110 ] - Assignment 1  |               [Live Preview](https://philopaterhany.github.io/JavaScript-Bootcamp/Assignments/Assignments%20From%20%5B%20102%20%5D%20To%20%5B%20110%20%5D/Assignment%201/index.html)                |
+| Assignments For Lessons From [ 102 ] To [ 110 ] - Assignment 2  |               [Live Preview](https://philopaterhany.github.io/JavaScript-Bootcamp/Assignments/Assignments%20From%20%5B%20102%20%5D%20To%20%5B%20110%20%5D/Assignment%202/index.html)                |
+| Assignments For Lessons From [ 111 ] To [ 114 ] - Assignment 1  |               [Live Preview](https://philopaterhany.github.io/JavaScript-Bootcamp/Assignments/Assignments%20From%20%5B%20111%20%5D%20To%20%5B%20114%20%5D/Assignment%201/index.html)                |
+| Assignments For Lessons From [ 111 ] To [ 114 ] - Assignment 2  |               [Live Preview](https://philopaterhany.github.io/JavaScript-Bootcamp/Assignments/Assignments%20From%20%5B%20111%20%5D%20To%20%5B%20114%20%5D/Assignment%202/index.html)                |
+| Video - 112 - Practice - Local Storage Color App                |                      [Live Preview](https://philopaterhany.github.io/JavaScript-Bootcamp/Lessons/Week%2015/112%20-%20Practice%20-%20Local%20Storage%20Color%20App/index.html)                       |
+| Video - 114 - BOM Challenge                                     |               [Live Preview](https://philopaterhany.github.io/JavaScript-Bootcamp/Assignments/Assignments%20From%20%5B%20111%20%5D%20To%20%5B%20114%20%5D/BOM%20Challenge/index.html)               |
+| Video - 144 - Form Validation With RegExp                       |                            [Live Preview](https://philopaterhany.github.io/JavaScript-Bootcamp/Lessons/Week%2018/144%20-%20Form%20Validation%20With%20RegExp/index.html)                            |
+| Assignments For Lessons From [ 169 ] To [ 178 ] - Assignment 4  |               [Live Preview](https://philopaterhany.github.io/JavaScript-Bootcamp/Assignments/Assignments%20From%20%5B%20169%20%5D%20To%20%5B%20178%20%5D/Assignment%204/index.html)                |
+| Assignments For Lessons From [ 179 ] To [ 188 ] - Assignment 1  |               [Live Preview](https://philopaterhany.github.io/JavaScript-Bootcamp/Assignments/Assignments%20From%20%5B%20179%20%5D%20To%20%5B%20188%20%5D/Assignment%201/index.html)                |
+| Assignments For Lessons From [ 179 ] To [ 188 ] - Assignment 2  |               [Live Preview](https://philopaterhany.github.io/JavaScript-Bootcamp/Assignments/Assignments%20From%20%5B%20179%20%5D%20To%20%5B%20188%20%5D/Assignment%202/index.html)                |
+| Assignments For Lessons From [ 001 ] To [ 188 ] - Assignment 42 |                               [Live Preview](https://philopaterhany.github.io/JavaScript-Bootcamp/Assignments/Miscellaneous%20Assignments/Assignment%2042/index.html)                               |
+| Assignments For Lessons From [ 001 ] To [ 188 ] - Assignment 43 |                               [Live Preview](https://philopaterhany.github.io/JavaScript-Bootcamp/Assignments/Miscellaneous%20Assignments/Assignment%2043/index.html)                               |
+| Assignments For Lessons From [ 001 ] To [ 188 ] - Assignment 47 |                               [Live Preview](https://philopaterhany.github.io/JavaScript-Bootcamp/Assignments/Miscellaneous%20Assignments/Assignment%2047/index.html)                               |
 
 ---
 

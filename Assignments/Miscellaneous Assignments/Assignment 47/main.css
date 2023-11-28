@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+.form {
+    background-color: #ddd;
+    width: 500px;
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 20px;
+}
+textarea {
+    height: 200px;
+    padding: 10px;
+    resize: none;
+    outline: none;
+    border: none;
+}
+button {
+    width: fit-content;
+    padding: 5px;
+    cursor: pointer;
+}
