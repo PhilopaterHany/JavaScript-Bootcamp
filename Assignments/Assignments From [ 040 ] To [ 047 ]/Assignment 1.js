@@ -18,3 +18,9 @@ console.log(myFriends);
 // Method 4
 console.log(myFriends.splice(num - num, num)); 
 // Output => ["Ahmed", "Elham", "Osama"]
+
+// Method 5
+myFriends = ["Ahmed", "Elham", "Osama", "Gamal"];
+myFriends.reverse().shift();
+console.log(myFriends.reverse()); 
+// ["Ahmed", "Elham", "Osama"];
