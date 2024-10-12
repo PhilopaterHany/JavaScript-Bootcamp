@@ -50,6 +50,66 @@ for (let i = 0; i < objectLength; i++) {
     console.log("#".repeat(20));
 }
 
+
+//  method 2
+
+
+let keys = Object.keys(myFavGames);
+let objectLength = keys.length;
+for (let i = 0; i < objectLength; i++) {
+  let gameName = keys[i];
+  let game = myFavGames[gameName];
+  console.log(`The Game Name Is ${gameName}`);
+  console.log(`The Publisher Is ${game.publisher}`);
+  console.log(`The Price Is ${game.price}`);
+  if (game.hasOwnProperty("bestThree")) {
+    console.log("- Game Has Releases");
+    console.log(`First => ${game.bestThree.one}`);
+    console.log(`Second => ${game.bestThree.two}`);
+    console.log(`Third => ${game.bestThree.three}`);
+  }
+  console.log("#".repeat(20));
+}
+
+// method 3
+
+for (let gameName of Object.keys(myFavGames)) {
+  let game = myFavGames[gameName];
+
+  console.log(`The Game Name Is ${gameName}`);
+  console.log(`The Publisher Is ${game.publisher}`);
+  console.log(`The Price Is ${game.price}`);
+
+  if (game.hasOwnProperty("bestThree")) {
+    console.log("- Game Has Releases");
+    console.log(`First => ${game.bestThree.one}`);
+    console.log(`Second => ${game.bestThree.two}`);
+    console.log(`Third => ${game.bestThree.three}`);
+  }
+
+  console.log("#".repeat(20));
+}
+
+// method -4
+
+for (let gameName of Object.keys(myFavGames)) {
+  let game = myFavGames[gameName];
+
+  console.log(`The Game Name Is ${gameName}`);
+  console.log(`The Publisher Is ${game.publisher}`);
+  console.log(`The Price Is ${game.price}`);
+
+  if (game.bestThree) {
+    console.log("- Game Has Releases");
+    for (let key in game.bestThree) {
+      console.log(
+        `${key.charAt(0).toUpperCase() + key.slice(1)} => ${
+          game.bestThree[key]
+        }`
+      );
+    }
+  }
+
 /*
     Ouput:
         "The Game Name Is Trinity Universe"
