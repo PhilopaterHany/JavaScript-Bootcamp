@@ -25,51 +25,43 @@ let myFavGames = {
     },
 };
 
-// Code One => How To Get Object Length ?
-let objectLength = Object.keys(myFavGames).length;
+// Thanks to "ahs120" for his effort in providing a better and shorter solution
+// https://github.com/PhilopaterHany/JavaScript-Bootcamp/pull/20
 
-for (let i = 0; i < objectLength; i++) {
-    console.log(`The Game Name Is ${Object.keys(myFavGames)[i]}`);
-    console.log(
-        `The Publisher Is ${myFavGames[Object.keys(myFavGames)[i]].publisher}`
-    );
-    console.log(`The Price Is ${myFavGames[Object.keys(myFavGames)[i]].price}`);
-
-    if (myFavGames[Object.keys(myFavGames)[i]].hasOwnProperty("bestThree")) {
-        console.log("- Game Has Releases");
-        console.log(
-            `First => ${myFavGames[Object.keys(myFavGames)[i]].bestThree.one}`
-        );
-        console.log(
-            `Second => ${myFavGames[Object.keys(myFavGames)[i]].bestThree.two}`
-        );
-        console.log(
-            `Third => ${myFavGames[Object.keys(myFavGames)[i]].bestThree.three}`
-        );
+for (let gameName of Object.keys(myFavGames)) {
+    let game = myFavGames[gameName];
+    console.log(`The Game Name is ${gameName}`);
+    console.log(`The Publisher is ${game.publisher}`);
+    console.log(`The Price is ${game.price} USD`);
+    if (game.hasOwnProperty("bestThree")) {
+        console.log(`- ${gameName} has releases:`);
+        console.log(`   First => ${game.bestThree.one}`);
+        console.log(`   Second => ${game.bestThree.two}`);
+        console.log(`   Third => ${game.bestThree.three}`);
     }
-    console.log("#".repeat(20));
+    console.log("#".repeat(50));
 }
 
 /*
     Ouput:
-        "The Game Name Is Trinity Universe"
-        "The Publisher Is NIS America"
-        "The Price Is 40"
-        "####################"
-        "The Game Name Is Titan Quest"
-        "The Publisher Is THQ"
-        "The Price Is 50"
-        "- Game Has Releases"
-        "First => Immortal Throne"
-        "Second => Ragnarök"
-        "Third => Atlantis"
-        "####################"
-        "The Game Name Is YS"
-        "The Publisher Is Falcom"
-        "The Price Is 40"
-        "- Game Has Releases"
-        "First => Oath in Felghana"
-        "Second => Ark Of Napishtim"
-        "Third => origin"
-        "####################"
+        "The Game Name is Trinity Universe"
+        "The Publisher is NIS America"
+        "The Price is 40 USD"
+        "##################################################"
+        "The Game Name is Titan Quest"
+        "The Publisher is THQ"
+        "The Price is 50 USD"
+        "- Titan Quest has releases:"
+            "First => Immortal Throne"
+            "Second => Ragnarök"
+            "Third => Atlantis"
+        "##################################################"
+        "The Game Name is YS"
+        "The Publisher is Falcom"
+        "The Price is 40 USD"
+        "- YS has releases:"
+            "First => Oath in Felghana"
+            "Second => Ark Of Napishtim"
+            "Third => Origin"
+        "##################################################"
 */

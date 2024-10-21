@@ -1,26 +1,28 @@
 ![JavaScript Bootcamp Course](https://elzero.org/js.png)
 
-# JavaScript Bootcamp Course From [Elzero Web School](https://elzero.org/)
-
-[Course Study Plan](https://elzero.org/study/javascript-bootcamp-2021-study-plan/) => [ 022 From 022 ] - Weeks
-
-![100%](https://progress-bar.dev/100/?title=Done)
+### JavaScript Bootcamp Course from [Elzero Web School](https://elzero.org/)
+### Special thanks goes to [Osama Elzero](https://www.facebook.com/OsElzero)
 
 ---
 
-[Videos Watched](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) => [ 188 From 188 ] - Videos ( 19 Hours, 23 Minutes, 12 Seconds )
+### Useful Resources
 
-![100%](https://progress-bar.dev/100/?title=Watched)
+- **[Course Study Plan](https://elzero.org/study/javascript-bootcamp-2021-study-plan/):**  
+  Progress: 22 out of 22 weeks completed  
+  ![100%](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=4caf50)
+
+- **[YouTube Playlist](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv):**  
+  Videos Watched: 188 out of 188 (Total Duration: 19 hours, 23 minutes, 12 seconds)  
+  ![100%](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=4caf50)
+
+- **[Assignments](https://elzero.org/category/assignments/javascript-bootcamp-assignments/):**  
+  Solved: 170 out of 170 assignments across 27 topics  
+  ![100%](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=4caf50)
+
 
 ---
 
-[Assignments Solved](https://elzero.org/category/assignments/javascript-bootcamp-assignments/) => [ 170 From 170 ] - Assignments ( 27 Topics )
-
-![100%](https://progress-bar.dev/100/?title=Solved)
-
----
-
-## Content & Discussed Topics
+### Content
 
 <details>
     <summary>
@@ -514,7 +516,7 @@
 
 ---
 
-## Assignments
+### Assignments
 
 |  Status  |               Topic                |                                                        Assignment                                                         |                                                                    Solution                                                                     |
 | :------: | :--------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -548,7 +550,7 @@
 
 ---
 
-## Live Demos
+### Live Demos
 
 | File Name                                                       |                                                                                            Live Preview                                                                                             |
 | --------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -574,8 +576,14 @@
 
 ---
 
-### Special Thanks To [Osama Elzero](https://www.youtube.com/c/ElzeroInfo)
+### Author
 
-### Check My [codepen.io](https://codepen.io/Rafay12/collections/?grid_type=list) Profile
+-   Website - Portfolio Is Coming Out Soon!
+-   Twitter - [@PhilopaterHany4](https://www.twitter.com/PhilopaterHany4/)
+-   Linkedin - [@phth](https://www.linkedin.com/in/phth/)
+-   Facebook - [@Philopater Hany](https://www.facebook.com/philopater.hany.3)
+-   Codepen - [@Rafay12](https://codepen.io/Rafay12/collections/?grid_type=list)
+-   Discord - [#philo8178](https://discord.com/users/philo8178/)
 
-### Made With :heart: By Philopater Hany
+### **NOTE**
+Please note that I am not accepting pull requests for this repository at the moment. If you have any suggestions, issues, enhancements, or improvements, kindly create an issue instead. Your feedback is greatly appreciated, and I will do my best to review and address it. Thank you for your understanding!
