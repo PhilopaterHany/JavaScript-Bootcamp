@@ -5,3 +5,6 @@ console.log(new Set(Array.from(new Set(myFriends)).sort()));
     Needed Output:
     (4)[("Ahmed", "Mahmoud", "Osama", "Sayed")]
 */
+
+//   2 
+console.log([...new Set(myFriends.sort())]);
