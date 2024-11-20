@@ -5,6 +5,8 @@ let date4 = "25 10 82";
 
 // Write Pattern Here
 let re = /(\d{2}(\/|\s-\s|\s)){2}(\d{4}|\d{2})/g;
+// 2 
+let re = /\d{2}(\s | \s - \s)\d{2}(\s | \s - \s)\d{2,4}/g;
 
 console.log(date1.match(re)); // "25/10/1982"
 console.log(date2.match(re)); // "25 - 10 - 1982"
