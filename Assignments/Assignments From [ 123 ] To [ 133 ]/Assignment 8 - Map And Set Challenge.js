@@ -39,3 +39,7 @@ console.log([...n1, ...n2].length * Math.max(...n2)); // Output => 210
 
 // Solution Three
 console.log(parseInt(`${n2.indexOf(Math.min(...n1))}${Math.min(...n1)}`)); // Output => 210
+
+// Solution 4
+console.log(n1.push(...n2) * n2.shift());
+
